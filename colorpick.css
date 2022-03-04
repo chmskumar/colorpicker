@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg_container {
+    background-color: #ffffff;
+    height: 100vh;
+    background-size: cover;
+
+}
+
+
+.colorheading {
+    font-family: "Open Sans";
+    font-size: 35px;
+    color: #222222;
+    font-weight: bold;
+
+}
+
+.button1 {
+    font-family: "Open Sans";
+    height: 80px;
+    width: 80px;
+    border-width: 3px;
+    border-radius: 12px;
+    border-style: solid;
+    border-color: #222222;
+    background-color: #e0e0e0;
+}
+
+.button2 {
+    font-family: "Open Sans";
+    height: 80px;
+    width: 80px;
+    border-width: 3px;
+    border-radius: 12px;
+    border-style: solid;
+    border-color: #222222;
+    background-color: #6fcf97;
+}
+
+.button3 {
+    font-family: "Open Sans";
+    height: 80px;
+    width: 80px;
+    border-width: 3px;
+    border-radius: 12px;
+    border-style: solid;
+    border-color: #222222;
+    background-color: #56ccf2;
+}
+
+.button4 {
+    font-family: "Open Sans";
+    height: 80px;
+    width: 80px;
+    border-width: 3px;
+    border-radius: 12px;
+    border-style: solid;
+    border-color: #222222;
+    background-color: #bb6bd9;
+
+}
+
+.back_ground {
+    font-family: "Open Sans";
+    font-size: 18px;
+    color: #ffffff;
+    height: 45px;
+    width: 100%;
+    border-radius: 6px;
+    background-color: #222222;
+    font-weight: bold;
+    padding-left: 30px;
+    padding-top: 8px;
+}
+
+.color-change {
+    font-family: "Open Sans";
+    color: #bb6bd9;
+    font-weight: bold;
+    font-size: 18px;
+}
